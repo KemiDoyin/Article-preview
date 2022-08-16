@@ -116,9 +116,6 @@ span {
     display: flex;
     background-color: var(--Very-Dark-Grayish-Blue);
     width: 80%;
-    position: absolute;
-    bottom: -350px;
-
     /* padding: 30px; */
     /* margin: 20px; */
 }
